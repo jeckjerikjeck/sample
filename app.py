@@ -1,2 +1,1 @@
-get
 print(1)

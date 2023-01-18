@@ -1,1 +1,2 @@
+get
 print(1)
